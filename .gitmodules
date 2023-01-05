@@ -1,0 +1,3 @@
+[submodule "flex-project"]
+	path = flex-project
+	url = https://github.com/Akshay-Tarde/flex-project.git
